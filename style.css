@@ -1,0 +1,44 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+
+    background-image: url(11.jpg);
+    background-attachment: inherit;
+    background-attachment: fixe
+
+}
+
+
+
+
+h1{
+    color:linen
+    
+}
+h2{
+    color: aquamarine
+}
+h3{
+    color:darkcyan;
+}
+h4{
+    color: darkslateblue;
+}
+dd{
+    color:greenyellow;
+}
+dt{
+    color: blueviolet
+}
+th{
+    color:limegreen
+}
+td{
+    color:khaki
+}
+table{
+    border-color: blue
+    
+}
+sup{
+    color:wheat
+}
